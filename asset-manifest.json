@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shareQuotes/static/css/main.44c99f47.css",
+    "main.js": "/shareQuotes/static/js/main.22d0fbed.js",
+    "static/js/787.bcf12da4.chunk.js": "/shareQuotes/static/js/787.bcf12da4.chunk.js",
+    "index.html": "/shareQuotes/index.html",
+    "main.44c99f47.css.map": "/shareQuotes/static/css/main.44c99f47.css.map",
+    "main.22d0fbed.js.map": "/shareQuotes/static/js/main.22d0fbed.js.map",
+    "787.bcf12da4.chunk.js.map": "/shareQuotes/static/js/787.bcf12da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c99f47.css",
+    "static/js/main.22d0fbed.js"
+  ]
+}
