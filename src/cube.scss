@@ -15,14 +15,15 @@ $cube-sides:#FFF68B;
 /* Rotating cube infos */
 
 .cube {
-    position: absolute;
+    position: fixed;
     width: $cube-width;
     height: $cube-height;
     transform-style: preserve-3d;
     transform: rotateX(-30deg);
     animation: animate 4s linear infinite;
-    bottom:4vmin;
-    right:4vmin;
+    bottom:0;
+    right:0;
+    margin: 20px;
   }
   
   @keyframes animate {
@@ -109,7 +110,7 @@ $cube-sides:#FFF68B;
     color: #FFF;
   }
 
-  @media only screen and (max-width: 320px){
+  @media only screen and (max-width: 400px){
     .cube {
       display: none;
     }
